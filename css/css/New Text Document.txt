@@ -1,0 +1,7 @@
+<div class="blog_icon"><i class="fa fa-tablet" aria-hidden="true"></i></div>
+<div class="blog_icon"><i class="fa fa-lemon-o" aria-hidden="true"></i></div>
+<div class="blog_icon"><i class="fa fa-folder-o" aria-hidden="true"></i></div>
+<div class="blog_icon"><i class="fa fa-code" aria-hidden="true"></i></div>
+<div class="blog_icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+<div class="blog_icon"><i class="fa fa-bookmark-o" aria-hidden="true"></i></div>
+
